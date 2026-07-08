@@ -5,3 +5,4 @@ __pycache__/
 # Credenciales y variables de entorno
 .env
 credentials.json
+*.log
