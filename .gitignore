@@ -1,0 +1,7 @@
+# Entornos
+venv/
+__pycache__/
+
+# Credenciales y variables de entorno
+.env
+credentials.json
